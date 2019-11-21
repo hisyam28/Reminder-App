@@ -1,0 +1,74 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.reminderapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:5:5-31:19
+12        android:name="com.example.reminderapp.MyAplication"
+12-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:6:9-37
+13        android:allowBackup="true"
+13-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:7:9-35
+14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+14-->[androidx.core:core:1.0.1] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\5e4c1c38e6ff047189f174c7338f6c6b\core-1.0.1\AndroidManifest.xml:22:18-86
+15        android:debuggable="true"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:8:9-43
+17        android:label="@string/app_name"
+17-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:9:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:10:9-54
+19        android:supportsRtl="true"
+19-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:11:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:12:9-40
+22        <activity android:name="com.example.reminderapp.LoginActivity" />
+22-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:13:9-60
+22-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:13:19-48
+23        <activity android:name="com.example.reminderapp.SplashActivity" >
+23-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:14:9-20:20
+23-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:14:19-49
+24            <intent-filter>
+24-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:15:13-19:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:16:17-69
+25-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:16:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:18:17-77
+27-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:18:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity
+30-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:21:9-23:58
+31            android:name="com.example.reminderapp.DetailActivity"
+31-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:22:13-43
+32            android:parentActivityName="com.example.reminderapp.MainActivity" />
+32-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:23:13-55
+33        <activity android:name="com.example.reminderapp.FormReminderActivity" />
+33-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:24:9-58
+33-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:24:19-55
+34        <activity android:name="com.example.reminderapp.RelativeLayoutActivity" />
+34-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:25:9-60
+34-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:25:19-57
+35        <activity android:name="com.example.reminderapp.LinearLayoutActivity" />
+35-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:26:9-58
+35-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:26:19-55
+36        <activity android:name="com.example.reminderapp.BelajarActivity" />
+36-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:27:9-53
+36-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:27:19-50
+37        <activity android:name="com.example.reminderapp.MainActivity" >
+37-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:28:9-30:20
+37-->C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:28:19-47
+38        </activity>
+39    </application>
+40
+41</manifest>

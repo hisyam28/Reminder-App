@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Reminder App</string>
+    <string-array name="nama_planet">
+        <item>pilih</item>
+        <item>venus</item>
+        <item>bumi</item>
+        <item>saturnus</item>
+        <item>uranus</item>
+        <item>neptunus</item>
+    </string-array>
+    <string-array name="frekuensi_reminder">
+        <item>pilih</item>
+        <item>setiap hari</item>
+        <item>setiap minggu</item>
+        <item>setiap bulan</item>
+        <item>setiap tahun</item>
+    </string-array>
+</resources>

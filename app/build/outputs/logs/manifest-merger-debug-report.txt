@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [io.realm:realm-android-library:5.12.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\1b8d6c090838b9298fe6405e6ede43c0\jetified-realm-android-library-5.12.0\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\4f5a8b6e674f0a8f51922e0bdd925817\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\5f7aa000f99f3c949893726e68afa5d8\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\86145f33f2f0e99943612d0bb7d8e36e\relinker-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\0891ecf74471a62f371c68021962ef1f\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\083afa56c4cdc49a4e11df283aa460bd\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\a6f5c2ede936158d24b5834211f492f7\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\7ca71b6fd6857d4d86e644ce48b47843\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\61c3edf1a42d77e7fc742112d98f8ac6\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\f42ea0bd5af5f490b3978618078ae537\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\b1db494c1b666843a25efa11493d8c62\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\016f62dde04eaab328eb3af00c3f08d8\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\342fbcecc68823af0be9013395231ec3\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\e3dda45aebdb7bdd91ab378f94b0a0db\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\26cf5ee6264203e17697885297529249\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\b274b18894c7adfbc273037169a49f39\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\f25add725c707b92076406775f0c6fdb\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\5e4c1c38e6ff047189f174c7338f6c6b\core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\ca60fbdc0a62515075cab20a72c68b63\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\0aa9d08744e56f2cfeb82787ff9f6c1d\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\b2a85634544e7af9e9096dc1020fefcf\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\3a08d0aedb0edc5ecb595b20b3f244cc\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\8aa3ca3410954bdf5dc3bf42e153d713\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\972ca4ede9d8b471d58610b5678fdcfd\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\93ff03901b9535073540428e7056779e\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\770f4236f5cf673b7fc068947f741cf6\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\196a9528d5085fd5d7d4075c114ff4bb\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\2e6c2a5d37e2d50b755941cd046355ae\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\c0378a4a18c3d174221fe936afc98fea\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:5:5-31:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\5f7aa000f99f3c949893726e68afa5d8\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\5f7aa000f99f3c949893726e68afa5d8\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\5e4c1c38e6ff047189f174c7338f6c6b\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\5e4c1c38e6ff047189f174c7338f6c6b\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\ca60fbdc0a62515075cab20a72c68b63\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\ca60fbdc0a62515075cab20a72c68b63\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\5e4c1c38e6ff047189f174c7338f6c6b\core-1.0.1\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:6:9-37
+activity#com.example.reminderapp.LoginActivity
+ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:13:9-60
+	android:name
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:13:19-48
+activity#com.example.reminderapp.SplashActivity
+ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:14:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.reminderapp.DetailActivity
+ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:21:9-23:58
+	android:parentActivityName
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:23:13-55
+	android:name
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:22:13-43
+activity#com.example.reminderapp.FormReminderActivity
+ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:24:9-58
+	android:name
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:24:19-55
+activity#com.example.reminderapp.RelativeLayoutActivity
+ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:25:9-60
+	android:name
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:25:19-57
+activity#com.example.reminderapp.LinearLayoutActivity
+ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:26:9-58
+	android:name
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:26:19-55
+activity#com.example.reminderapp.BelajarActivity
+ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:27:9-53
+	android:name
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:27:19-50
+activity#com.example.reminderapp.MainActivity
+ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:28:9-30:20
+	android:name
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml:28:19-47
+uses-sdk
+INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+MERGED from [io.realm:realm-android-library:5.12.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\1b8d6c090838b9298fe6405e6ede43c0\jetified-realm-android-library-5.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library:5.12.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\1b8d6c090838b9298fe6405e6ede43c0\jetified-realm-android-library-5.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\4f5a8b6e674f0a8f51922e0bdd925817\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\4f5a8b6e674f0a8f51922e0bdd925817\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\5f7aa000f99f3c949893726e68afa5d8\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\5f7aa000f99f3c949893726e68afa5d8\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\86145f33f2f0e99943612d0bb7d8e36e\relinker-1.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\86145f33f2f0e99943612d0bb7d8e36e\relinker-1.3.0\AndroidManifest.xml:5:5-43
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\0891ecf74471a62f371c68021962ef1f\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\0891ecf74471a62f371c68021962ef1f\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\083afa56c4cdc49a4e11df283aa460bd\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\083afa56c4cdc49a4e11df283aa460bd\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\a6f5c2ede936158d24b5834211f492f7\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\a6f5c2ede936158d24b5834211f492f7\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\7ca71b6fd6857d4d86e644ce48b47843\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\7ca71b6fd6857d4d86e644ce48b47843\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\61c3edf1a42d77e7fc742112d98f8ac6\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\61c3edf1a42d77e7fc742112d98f8ac6\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\f42ea0bd5af5f490b3978618078ae537\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\f42ea0bd5af5f490b3978618078ae537\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\b1db494c1b666843a25efa11493d8c62\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\b1db494c1b666843a25efa11493d8c62\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\016f62dde04eaab328eb3af00c3f08d8\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\016f62dde04eaab328eb3af00c3f08d8\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\342fbcecc68823af0be9013395231ec3\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\342fbcecc68823af0be9013395231ec3\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\e3dda45aebdb7bdd91ab378f94b0a0db\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\e3dda45aebdb7bdd91ab378f94b0a0db\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\26cf5ee6264203e17697885297529249\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\26cf5ee6264203e17697885297529249\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\b274b18894c7adfbc273037169a49f39\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\b274b18894c7adfbc273037169a49f39\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\f25add725c707b92076406775f0c6fdb\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\f25add725c707b92076406775f0c6fdb\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\5e4c1c38e6ff047189f174c7338f6c6b\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\5e4c1c38e6ff047189f174c7338f6c6b\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\ca60fbdc0a62515075cab20a72c68b63\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\ca60fbdc0a62515075cab20a72c68b63\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\0aa9d08744e56f2cfeb82787ff9f6c1d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\0aa9d08744e56f2cfeb82787ff9f6c1d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\b2a85634544e7af9e9096dc1020fefcf\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\b2a85634544e7af9e9096dc1020fefcf\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\3a08d0aedb0edc5ecb595b20b3f244cc\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\3a08d0aedb0edc5ecb595b20b3f244cc\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\8aa3ca3410954bdf5dc3bf42e153d713\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\8aa3ca3410954bdf5dc3bf42e153d713\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\972ca4ede9d8b471d58610b5678fdcfd\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\972ca4ede9d8b471d58610b5678fdcfd\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\93ff03901b9535073540428e7056779e\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\93ff03901b9535073540428e7056779e\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\770f4236f5cf673b7fc068947f741cf6\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\770f4236f5cf673b7fc068947f741cf6\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\196a9528d5085fd5d7d4075c114ff4bb\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\196a9528d5085fd5d7d4075c114ff4bb\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\2e6c2a5d37e2d50b755941cd046355ae\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\2e6c2a5d37e2d50b755941cd046355ae\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\c0378a4a18c3d174221fe936afc98fea\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hisya\.gradle\caches\transforms-2\files-2.1\c0378a4a18c3d174221fe936afc98fea\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hisya\AndroidStudioProjects\ReminderApp2\app\src\main\AndroidManifest.xml
